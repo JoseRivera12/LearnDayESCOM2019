@@ -1,0 +1,4 @@
+input[type=checkbox]{
+    opacity: 1!important;
+    pointer-events: auto!important;
+}
